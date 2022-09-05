@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "dynamic-dispatch",
+    "static-dispatch",
+    "utils"
+]
