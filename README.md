@@ -1,5 +1,11 @@
 # Actix Benchmarks
 
+## Disclaimer
+
+This benchmark was designed for a specific scenario. Do not take it into account when making decisions about your projects or your company's products.
+
+If you are in any doubt, I suggest you do your own tests according to your scenario and using tools and methods that suit your case.
+
 ## Abstract
 
 The purpose of this benchmark is to test whether using Dynamic Dispatch, instead of Static Dispatch, exclusively on the dependencies of a Handler impacts the performance of an application considerably.
